@@ -454,7 +454,7 @@ const default_config = {
             },
             {
               name: "rabota",
-              url: "rabota.by",
+              url: "https://rabota.by",
               icon: "square-letter-r",
               icon_color: "#89b482",
             },
